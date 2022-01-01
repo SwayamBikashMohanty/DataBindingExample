@@ -1,5 +1,5 @@
 # DataBindingExample
-## Step:1(build.gradle file in the app)
+## Step:1(insert build.gradle file in the app)
 
   buildFeatures {</br>
        dataBinding true </br>
